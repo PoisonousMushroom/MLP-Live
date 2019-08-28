@@ -1,0 +1,17 @@
+2019-05-27 17:25:13 INFO  cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    Pcap is listening...
+2019-05-27 17:26:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 563 flow
+2019-05-27 17:26:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 562 flow
+2019-05-27 17:26:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 561 flow
+2019-05-27 17:26:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 560 flow
+2019-05-27 17:26:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 559 flow
+2019-05-27 17:26:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 558 flow
+2019-05-27 17:26:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 558 flow
+2019-05-27 17:26:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 559 flow
+2019-05-27 17:26:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 561 flow
+2019-05-27 17:26:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 561 flow
+2019-05-27 17:26:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 562 flow
+2019-05-27 17:26:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 563 flow
+2019-05-27 17:27:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 731 flow
+2019-05-27 17:27:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 731 flow
+2019-05-27 17:27:27 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    Pcap stop listening
+2019-05-27 17:27:27 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    path:/home/oana/Desktop/thesis/Thesis/Actual code/CICFlowMeter-4.0/bin/data/daily/2019-05-27_Flow.csv

@@ -1,0 +1,11 @@
+2019-07-05 20:26:41 INFO  cic.cs.unb.ca.ifm.Cmd    You select: traffic2.pcap
+2019-07-05 20:26:41 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: traffic2Flow.csv
+2019-07-05 20:26:41 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2019-07-05 20:26:41 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on traffic2.pcap
+2019-07-05 20:26:41 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    No such file or directory
+2019-07-05 20:26:41 DEBUG swing.common.SwingUtils    traffic2Flow.csv/traffic2.pcap_Flow.csv (No such file or directory)
+2019-07-05 20:27:52 INFO  cic.cs.unb.ca.ifm.Cmd    The out folder does not exist! -> traffic1Flow.csv
+2019-07-05 20:28:10 INFO  cic.cs.unb.ca.ifm.Cmd    The out folder does not exist! -> traffic2Flow.csv
+2019-07-05 20:28:27 INFO  cic.cs.unb.ca.ifm.Cmd    The out folder does not exist! -> traffic1Flow.csv
+2019-07-05 20:28:45 INFO  cic.cs.unb.ca.ifm.Cmd    The out folder does not exist! -> traffic2Flow.csv
+2019-07-05 20:47:59 INFO  cic.cs.unb.ca.ifm.Cmd    The out folder does not exist! -> traffic1Flow.csv

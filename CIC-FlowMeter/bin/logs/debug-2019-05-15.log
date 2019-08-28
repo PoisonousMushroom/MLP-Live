@@ -1,0 +1,25 @@
+2019-05-15 23:17:57 INFO  cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    open wlp2s0 fail -> wlp2s0: You don't have permission to capture on that device (socket: Operation not permitted)
+2019-05-15 23:18:21 INFO  cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    Pcap is listening...
+2019-05-15 23:18:47 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3 flow
+2019-05-15 23:18:47 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3 flow
+2019-05-15 23:18:47 DEBUG cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    break Packet loop
+2019-05-15 23:18:47 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    Pcap stop listening
+2019-05-15 23:18:47 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    path:/home/oana/Desktop/thesis/Thesis/Actual code/CICFlowMeter-4.0/bin/data/daily/2019-05-15_Flow.csv
+2019-05-15 23:18:47 DEBUG cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    break Packet loop
+2019-05-15 23:18:47 DEBUG cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    break Packet loop
+2019-05-15 23:18:47 DEBUG cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    break Packet loop
+2019-05-15 23:18:47 DEBUG cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    break Packet loop
+2019-05-15 23:18:47 DEBUG cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    break Packet loop
+2019-05-15 23:18:47 DEBUG cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    break Packet loop
+2019-05-15 23:18:47 DEBUG cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    break Packet loop
+2019-05-15 23:18:47 DEBUG cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    break Packet loop
+2019-05-15 23:18:47 DEBUG cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    break Packet loop
+2019-05-15 23:18:47 DEBUG cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    break Packet loop
+2019-05-15 23:18:47 DEBUG cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    break Packet loop
+2019-05-15 23:18:47 DEBUG cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    break Packet loop
+2019-05-15 23:18:47 DEBUG cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    break Packet loop
+2019-05-15 23:18:47 DEBUG cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    break Packet loop
+2019-05-15 23:19:15 INFO  cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    Pcap is listening...
+2019-05-15 23:19:40 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    Pcap stop listening
+2019-05-15 23:19:40 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    path:/home/oana/Desktop/thesis/Thesis/Actual code/CICFlowMeter-4.0/bin/data/daily/2019-05-15_Flow.csv
+2019-05-15 23:19:47 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    path:/home/oana/Desktop/thesis/Thesis/Actual code/CICFlowMeter-4.0/bin/data/daily/2019-05-15_Flow.csv
